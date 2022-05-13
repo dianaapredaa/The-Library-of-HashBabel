@@ -1,0 +1,85 @@
+# Copyright 2021 - 2022 Preda Diana 314CA
+
+NUME: Preda Diana
+GROUP: 314CA
+
+HOMEWORK 2: The Library of HashBabel
+
+WHAT WE DO:
+
+we use a hasmap in a hasmap to store dictionaries,
+each dictionar contains definitions of different words
+we use another hasmap to store users and we link this 3 data structures
+
+we implement a set of commands to play with:
+
+    BOOK COMMANDS:
+
+    ADD BOOK - we add a new book in the library and an indicated number of
+    definitions, which are also given
+
+    GET BOOK - we print the name, the rating and the number of purchases
+    of an indicated book
+
+    RMV BOOK - we delete an indicated book
+
+    DEFINITION COMMANDS:
+
+    ADD DEF - we add a specified definition in an indicated book
+
+    GET DEF - we print the definition of a certain word from an indicated book
+
+    RMV DEF - we delete an indicated definition from an indicated book
+
+    USERS COMMANDS:
+
+    ADD USER - add a new user is the database and attribute him 100 points
+    
+    BORROW BOOK - an user, that is not banned, can borrow only one book at a
+    time, for an indicated number of days
+    
+    RETURN BOOK - an user can return the book he borrowed and be panelized
+    or rewarded dependind on the number of days he kept the book
+    if the initial number is lower than the number of days the user kept the
+    book, he is panelized with minus two points / day
+    else, if the initial number is higher than the number of days the user kept
+    the book, he is rewarded with one point / day 
+    
+    LOST BOOK - if an user lost a borrowed book he is panelized with minus 50
+    points and the book is removed from the library
+    
+    EXIT - end of the day, the library closes
+    we free the allocated memory
+
+    TOP BOOKS - display books sorted by their rating, number of purchases and
+    alphabetical order
+    TOP USERS - display users sorted by their score and alphabetical order
+
+SOME COMMENTS:
+
+for implementing this program, i used 2 structures, one for the
+books and one for the users
+
+i also used 3 hasmaps one for the books, one for the definitions contained
+by the books and one for the users
+
+for an easier use of hasmaps, there is the 'hasmap' file which
+contains useful operations with hasmaps
+
+for treating allocation errors, i used DIE function, which could be find in the
+'utils' file
+
+for every indicated book name i verified if the book is in the library
+for every indicated definition i verified if the definition is in the
+indicated book
+for every user i verified if the user is registered and if the user is banned
+
+WHAT COULD BE BETTER:
+
+there are some duplicated code sequences, that could have been avoided
+
+WHAT I LEARNED:
+
+better use of C programming, hasmaps and generic data structures 
+
+I HOPE THIS SUMS IT ALL UP :)
