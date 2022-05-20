@@ -1,0 +1,530 @@
+The deck was successfully created with 7 cards.
+The deck was successfully created with 5 cards.
+The deck was successfully created with 5 cards.
+The cards were successfully added to deck 2.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+	11 DIAMOND
+Deck 1:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+	12 DIAMOND
+	1 CLUB
+Deck 2:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+The deck was successfully created with 7 cards.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+	11 DIAMOND
+Deck 1:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+	12 DIAMOND
+	1 CLUB
+Deck 2:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 3:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	4 HEART
+	8 HEART
+	7 HEART
+	10 DIAMOND
+The deck 0 was successfully split by index 6.
+The length of deck 1 is 1.
+The card was successfully deleted from deck 4.
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+	12 DIAMOND
+	1 CLUB
+The deck 2 was successfully split by index 4.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+	12 DIAMOND
+Deck 3:
+	1 CLUB
+Deck 4:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 5:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	8 HEART
+	7 HEART
+	10 DIAMOND
+The length of deck 1 is 1.
+The deck 2 was successfully split by index 3.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+Deck 3:
+	12 DIAMOND
+Deck 4:
+	1 CLUB
+Deck 5:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 6:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	8 HEART
+	7 HEART
+	10 DIAMOND
+The card was successfully deleted from deck 4.
+The number of decks is 6.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+Deck 3:
+	12 DIAMOND
+Deck 4:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 5:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	8 HEART
+	7 HEART
+	10 DIAMOND
+The number of decks is 6.
+The number of decks is 6.
+The deck 5 was successfully split by index 5.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+Deck 3:
+	12 DIAMOND
+Deck 4:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 5:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	8 HEART
+	7 HEART
+Deck 6:
+	10 DIAMOND
+The number of decks is 7.
+Deck 5:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	8 HEART
+	7 HEART
+The number of decks is 7.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+Deck 3:
+	12 DIAMOND
+Deck 4:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 5:
+	13 CLUB
+	14 HEART
+	12 CLUB
+	8 HEART
+	7 HEART
+Deck 6:
+	10 DIAMOND
+The deck 2 was successfully split by index 0.
+The deck 5 was successfully split by index 2.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+Deck 3:
+	12 DIAMOND
+Deck 4:
+	14 CLUB
+	11 SPADE
+	3 SPADE
+	6 SPADE
+	6 DIAMOND
+	10 HEART
+	2 DIAMOND
+	12 SPADE
+	12 HEART
+Deck 5:
+	13 CLUB
+	14 HEART
+Deck 6:
+	12 CLUB
+	8 HEART
+	7 HEART
+Deck 7:
+	10 DIAMOND
+The cards were successfully added to deck 6.
+Deck 7:
+	10 DIAMOND
+The deck 7 was successfully deleted.
+The deck 6 was successfully deleted.
+Deck 1:
+	11 DIAMOND
+The deck 4 was successfully deleted.
+The number of decks is 5.
+Deck 0:
+	1 HEART
+	9 SPADE
+	13 DIAMOND
+	8 CLUB
+	3 SPADE
+	3 SPADE
+Deck 1:
+	11 DIAMOND
+Deck 2:
+	8 CLUB
+	4 CLUB
+	8 DIAMOND
+Deck 3:
+	12 DIAMOND
+Deck 4:
+	13 CLUB
+	14 HEART
+The deck 0 was successfully deleted.
+The deck was successfully created with 5 cards.
+The length of deck 2 is 1.
+The deck 4 was successfully split by index 2.
+The length of deck 5 is 3.
+The length of deck 5 is 3.
+The card was successfully deleted from deck 1.
+Deck 0:
+	11 DIAMOND
+Deck 1:
+	4 CLUB
+	8 DIAMOND
+Deck 2:
+	12 DIAMOND
+Deck 3:
+	13 CLUB
+	14 HEART
+Deck 4:
+	1 CLUB
+	8 HEART
+Deck 5:
+	1 CLUB
+	13 DIAMOND
+	4 SPADE
+The cards were successfully added to deck 0.
+The deck 1 was successfully split by index 0.
+Deck 0:
+	11 DIAMOND
+	11 SPADE
+Deck 1:
+	4 CLUB
+	8 DIAMOND
+Deck 2:
+	12 DIAMOND
+Deck 3:
+	13 CLUB
+	14 HEART
+Deck 4:
+	1 CLUB
+	8 HEART
+Deck 5:
+	1 CLUB
+	13 DIAMOND
+	4 SPADE
+The cards were successfully added to deck 2.
+Deck 0:
+	11 DIAMOND
+	11 SPADE
+Deck 1:
+	4 CLUB
+	8 DIAMOND
+Deck 2:
+	12 DIAMOND
+	1 DIAMOND
+Deck 3:
+	13 CLUB
+	14 HEART
+Deck 4:
+	1 CLUB
+	8 HEART
+Deck 5:
+	1 CLUB
+	13 DIAMOND
+	4 SPADE
+The deck 1 was successfully split by index 0.
+The deck 0 was successfully split by index 0.
+Deck 0:
+	11 DIAMOND
+	11 SPADE
+The cards were successfully added to deck 4.
+The deck 2 was successfully deleted.
+The card was successfully deleted from deck 0.
+The cards were successfully added to deck 2.
+The length of deck 3 is 6.
+The deck 4 was successfully deleted.
+Deck 0:
+	11 DIAMOND
+Deck 1:
+	4 CLUB
+	8 DIAMOND
+Deck 2:
+	13 CLUB
+	14 HEART
+	14 CLUB
+	8 CLUB
+Deck 3:
+	1 CLUB
+	8 HEART
+	9 DIAMOND
+	10 HEART
+	9 HEART
+	3 SPADE
+The cards were successfully added to deck 1.
+The length of deck 0 is 1.
+Deck 0:
+	11 DIAMOND
+Deck 1:
+	4 CLUB
+	8 DIAMOND
+	12 HEART
+	3 SPADE
+Deck 2:
+	13 CLUB
+	14 HEART
+	14 CLUB
+	8 CLUB
+Deck 3:
+	1 CLUB
+	8 HEART
+	9 DIAMOND
+	10 HEART
+	9 HEART
+	3 SPADE
+The deck 3 was successfully split by index 5.
+Deck 0:
+	11 DIAMOND
+The deck was successfully created with 2 cards.
+The card was successfully deleted from deck 1.
+The deck was successfully created with 4 cards.
+The deck was successfully created with 6 cards.
+Deck 7:
+	1 CLUB
+	5 HEART
+	5 DIAMOND
+	5 HEART
+	5 HEART
+	13 CLUB
+The card was successfully deleted from deck 1.
+The deck was successfully created with 4 cards.
+The card was successfully deleted from deck 5.
+The deck was successfully created with 4 cards.
+Deck 0:
+	11 DIAMOND
+Deck 1:
+	12 HEART
+	3 SPADE
+Deck 2:
+	13 CLUB
+	14 HEART
+	14 CLUB
+	8 CLUB
+Deck 3:
+	1 CLUB
+	8 HEART
+	9 DIAMOND
+	10 HEART
+	9 HEART
+Deck 4:
+	3 SPADE
+Deck 5:
+	11 SPADE
+Deck 6:
+	13 CLUB
+	7 SPADE
+	3 HEART
+	2 DIAMOND
+Deck 7:
+	1 CLUB
+	5 HEART
+	5 DIAMOND
+	5 HEART
+	5 HEART
+	13 CLUB
+Deck 8:
+	7 SPADE
+	1 SPADE
+	4 DIAMOND
+	1 CLUB
+Deck 9:
+	7 DIAMOND
+	5 HEART
+	2 SPADE
+	6 DIAMOND
+The deck 9 was successfully split by index 1.
+The deck 3 was successfully deleted.
+Deck 9:
+	5 HEART
+	2 SPADE
+	6 DIAMOND
+The deck 2 was successfully deleted.
+Deck 0:
+	11 DIAMOND
+Deck 1:
+	12 HEART
+	3 SPADE
+Deck 2:
+	3 SPADE
+Deck 3:
+	11 SPADE
+Deck 4:
+	13 CLUB
+	7 SPADE
+	3 HEART
+	2 DIAMOND
+Deck 5:
+	1 CLUB
+	5 HEART
+	5 DIAMOND
+	5 HEART
+	5 HEART
+	13 CLUB
+Deck 6:
+	7 SPADE
+	1 SPADE
+	4 DIAMOND
+	1 CLUB
+Deck 7:
+	7 DIAMOND
+Deck 8:
+	5 HEART
+	2 SPADE
+	6 DIAMOND
+The deck 5 was successfully split by index 3.
+The deck 4 was successfully split by index 0.
+The length of deck 0 is 1.
+The deck 3 was successfully split by index 0.

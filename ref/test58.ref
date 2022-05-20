@@ -1,0 +1,2734 @@
+The deck was successfully created with 8 cards.
+The deck was successfully created with 4 cards.
+The deck was successfully created with 4 cards.
+The number of decks is 3.
+Deck 0:
+	3 DIAMOND
+	6 CLUB
+	6 SPADE
+	6 SPADE
+	6 CLUB
+	11 HEART
+	7 SPADE
+	14 CLUB
+Deck 1:
+	12 HEART
+	9 SPADE
+	2 HEART
+	6 CLUB
+Deck 2:
+	14 HEART
+	7 SPADE
+	7 CLUB
+	1 DIAMOND
+The cards were successfully added to deck 1.
+The deck was successfully created with 6 cards.
+Deck 0:
+	3 DIAMOND
+	6 CLUB
+	6 SPADE
+	6 SPADE
+	6 CLUB
+	11 HEART
+	7 SPADE
+	14 CLUB
+Deck 1:
+	12 HEART
+	9 SPADE
+	2 HEART
+	6 CLUB
+	10 HEART
+	4 DIAMOND
+	9 DIAMOND
+	10 CLUB
+Deck 2:
+	14 HEART
+	7 SPADE
+	7 CLUB
+	1 DIAMOND
+Deck 3:
+	2 DIAMOND
+	6 HEART
+	4 CLUB
+	11 HEART
+	13 HEART
+	7 CLUB
+The cards were successfully added to deck 2.
+Deck 0:
+	3 DIAMOND
+	6 CLUB
+	6 SPADE
+	6 SPADE
+	6 CLUB
+	11 HEART
+	7 SPADE
+	14 CLUB
+The card was successfully deleted from deck 3.
+Deck 0:
+	3 DIAMOND
+	6 CLUB
+	6 SPADE
+	6 SPADE
+	6 CLUB
+	11 HEART
+	7 SPADE
+	14 CLUB
+The deck 0 and the deck 1 were successfully merged.
+The provided index is out of bounds for the deck list.
+The deck 2 and the deck 1 were successfully merged.
+The deck was successfully created with 8 cards.
+The length of deck 2 is 8.
+The deck 0 was successfully split by index 4.
+The provided index is out of bounds for the deck list.
+Deck 0:
+	14 HEART
+	7 SPADE
+	7 CLUB
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	5 DIAMOND
+Deck 2:
+	3 DIAMOND
+	2 DIAMOND
+	12 HEART
+	4 CLUB
+	6 CLUB
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+Deck 3:
+	1 HEART
+	13 DIAMOND
+	1 DIAMOND
+	14 SPADE
+	5 HEART
+	6 SPADE
+	8 DIAMOND
+	3 CLUB
+The provided card is not a valid one.
+The cards were successfully added to deck 1.
+The deck 1 and the deck 3 were successfully merged.
+The length of deck 1 is 21.
+The number of decks is 3.
+The deck 0 and the deck 1 were successfully merged.
+The provided card is not a valid one.
+The deck was successfully created with 7 cards.
+The cards were successfully added to deck 0.
+The deck 0 was successfully split by index 12.
+The deck was successfully created with 4 cards.
+Deck 0:
+	1 DIAMOND
+	1 HEART
+	5 DIAMOND
+	13 DIAMOND
+	8 CLUB
+	1 DIAMOND
+	2 SPADE
+	14 SPADE
+	13 HEART
+	5 HEART
+	11 CLUB
+	6 SPADE
+Deck 1:
+	8 DIAMOND
+	3 CLUB
+	13 SPADE
+Deck 2:
+	14 HEART
+	3 DIAMOND
+	7 SPADE
+	2 DIAMOND
+	7 CLUB
+	12 HEART
+	1 DIAMOND
+	4 CLUB
+	6 CLUB
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+Deck 3:
+	13 SPADE
+	1 DIAMOND
+	4 SPADE
+	13 DIAMOND
+	7 CLUB
+	13 HEART
+	13 CLUB
+Deck 4:
+	14 HEART
+	10 SPADE
+	5 CLUB
+	12 HEART
+The card was successfully deleted from deck 2.
+The length of deck 2 is 24.
+Deck 0:
+	1 DIAMOND
+	1 HEART
+	5 DIAMOND
+	13 DIAMOND
+	8 CLUB
+	1 DIAMOND
+	2 SPADE
+	14 SPADE
+	13 HEART
+	5 HEART
+	11 CLUB
+	6 SPADE
+The number of decks is 5.
+Deck 4:
+	14 HEART
+	10 SPADE
+	5 CLUB
+	12 HEART
+The cards were successfully added to deck 1.
+Deck 0:
+	1 DIAMOND
+	1 HEART
+	5 DIAMOND
+	13 DIAMOND
+	8 CLUB
+	1 DIAMOND
+	2 SPADE
+	14 SPADE
+	13 HEART
+	5 HEART
+	11 CLUB
+	6 SPADE
+The length of deck 4 is 4.
+The deck 2 and the deck 4 were successfully merged.
+Deck 0:
+	1 DIAMOND
+	1 HEART
+	5 DIAMOND
+	13 DIAMOND
+	8 CLUB
+	1 DIAMOND
+	2 SPADE
+	14 SPADE
+	13 HEART
+	5 HEART
+	11 CLUB
+	6 SPADE
+Deck 1:
+	8 DIAMOND
+	3 CLUB
+	13 SPADE
+	7 SPADE
+	10 DIAMOND
+Deck 2:
+	13 SPADE
+	1 DIAMOND
+	4 SPADE
+	13 DIAMOND
+	7 CLUB
+	13 HEART
+	13 CLUB
+Deck 3:
+	3 DIAMOND
+	14 HEART
+	7 SPADE
+	10 SPADE
+	2 DIAMOND
+	5 CLUB
+	7 CLUB
+	12 HEART
+	12 HEART
+	1 DIAMOND
+	4 CLUB
+	6 CLUB
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+The cards were successfully added to deck 1.
+The deck 3 and the deck 0 were successfully merged.
+The card was successfully deleted from deck 1.
+The cards were successfully added to deck 2.
+The deck 2 was successfully split by index 0.
+The deck 1 and the deck 0 were successfully merged.
+The deck was successfully created with 3 cards.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+	10 SPADE
+The provided card is not a valid one.
+The cards were successfully added to deck 1.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+	10 SPADE
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+The provided index is out of bounds for the deck list.
+The card was successfully deleted from deck 2.
+The deck was successfully created with 6 cards.
+The deck 2 was successfully split by index 0.
+The number of decks is 4.
+The provided index is out of bounds for the deck list.
+The provided card is not a valid one.
+The provided card is not a valid one.
+The deck was successfully created with 7 cards.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Invalid command. Please try again.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+The provided index is out of bounds for the deck list.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+The deck 3 was successfully split by index 0.
+The provided index is out of bounds for the deck list.
+The provided index is out of bounds for the deck list.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+The provided index is out of bounds for the deck list.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+The provided index is out of bounds for the deck list.
+Invalid command. Please try again.
+The provided index is out of bounds for the deck list.
+The provided index is out of bounds for the deck list.
+The number of decks is 5.
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+The length of deck 1 is 17.
+The length of deck 0 is 43.
+The deck was successfully created with 5 cards.
+Deck 5:
+	2 DIAMOND
+	2 HEART
+	12 DIAMOND
+	1 CLUB
+	14 CLUB
+The deck 0 was successfully split by index 0.
+The deck 5 was successfully split by index 4.
+The length of deck 1 is 17.
+The deck 5 was successfully split by index 3.
+The provided index is out of bounds for deck 3.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Deck 5:
+	2 DIAMOND
+	2 HEART
+	12 DIAMOND
+Deck 6:
+	1 CLUB
+Deck 7:
+	14 CLUB
+The length of deck 5 is 3.
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+The number of decks is 8.
+The provided card is not a valid one.
+The deck was successfully created with 4 cards.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Deck 5:
+	2 DIAMOND
+	2 HEART
+	12 DIAMOND
+Deck 6:
+	1 CLUB
+Deck 7:
+	14 CLUB
+Deck 8:
+	14 DIAMOND
+	5 HEART
+	4 DIAMOND
+	2 HEART
+The length of deck 1 is 17.
+The deck 8 was successfully split by index 2.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Deck 5:
+	2 DIAMOND
+	2 HEART
+	12 DIAMOND
+Deck 6:
+	1 CLUB
+Deck 7:
+	14 CLUB
+Deck 8:
+	14 DIAMOND
+	5 HEART
+Deck 9:
+	4 DIAMOND
+	2 HEART
+The deck 9 was successfully split by index 1.
+Deck 0:
+	3 DIAMOND
+	1 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 1:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	7 DIAMOND
+	12 SPADE
+Deck 3:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 4:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Deck 5:
+	2 DIAMOND
+	2 HEART
+	12 DIAMOND
+Deck 6:
+	1 CLUB
+Deck 7:
+	14 CLUB
+Deck 8:
+	14 DIAMOND
+	5 HEART
+Deck 9:
+	4 DIAMOND
+Deck 10:
+	2 HEART
+The deck 5 and the deck 0 were successfully merged.
+Invalid command. Please try again.
+The length of deck 1 is 2.
+Deck 0:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+The deck 7 was successfully deleted.
+Deck 0:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 1:
+	7 DIAMOND
+	12 SPADE
+Deck 2:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 3:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Deck 4:
+	1 CLUB
+Deck 5:
+	14 CLUB
+Deck 6:
+	14 DIAMOND
+	5 HEART
+Deck 7:
+	2 HEART
+Deck 8:
+	2 DIAMOND
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The provided index is out of bounds for the deck list.
+The deck 7 was successfully split by index 0.
+Deck 0:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 1:
+	7 DIAMOND
+	12 SPADE
+Deck 2:
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+Deck 3:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+	8 HEART
+	13 HEART
+	11 HEART
+Deck 4:
+	1 CLUB
+Deck 5:
+	14 CLUB
+Deck 6:
+	14 DIAMOND
+	5 HEART
+Deck 7:
+	2 HEART
+Deck 8:
+	2 DIAMOND
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The deck 6 and the deck 2 were successfully merged.
+The provided index is out of bounds for the deck list.
+The provided card is not a valid one.
+The cards were successfully added to deck 7.
+Deck 0:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+The deck 3 was successfully split by index 0.
+The deck 2 was successfully split by index 5.
+The provided index is out of bounds for the deck list.
+The deck 2 was successfully split by index 4.
+The number of decks is 10.
+Deck 0:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 1:
+	7 DIAMOND
+	12 SPADE
+Deck 2:
+	10 SPADE
+	8 HEART
+	1 CLUB
+	3 SPADE
+Deck 3:
+	8 HEART
+Deck 4:
+	13 HEART
+	11 HEART
+Deck 5:
+	1 CLUB
+Deck 6:
+	14 CLUB
+Deck 7:
+	2 HEART
+Deck 8:
+	2 DIAMOND
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 9:
+	14 DIAMOND
+	5 HEART
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+	10 HEART
+	3 SPADE
+	9 CLUB
+The length of deck 8 is 46.
+The deck 7 and the deck 1 were successfully merged.
+The deck 4 was successfully split by index 0.
+The card was successfully deleted from deck 4.
+Deck 0:
+	1 DIAMOND
+	8 DIAMOND
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+The deck 0 was successfully split by index 2.
+The deck 0 was successfully split by index 0.
+The deck 0 and the deck 2 were successfully merged.
+The card was successfully deleted from deck 6.
+Deck 0:
+	4 SPADE
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 1:
+	8 HEART
+Deck 2:
+	13 HEART
+	11 HEART
+Deck 3:
+	14 CLUB
+Deck 4:
+	2 DIAMOND
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 5:
+	14 DIAMOND
+	5 HEART
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+	10 HEART
+	3 SPADE
+	9 CLUB
+Deck 6:
+	7 DIAMOND
+	12 SPADE
+Deck 7:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+	8 HEART
+	1 CLUB
+	3 SPADE
+The provided index is out of bounds for deck 2.
+The deck 0 was successfully split by index 1.
+The deck 0 was successfully split by index 0.
+Deck 0:
+	4 SPADE
+Deck 1:
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	8 HEART
+Deck 3:
+	13 HEART
+	11 HEART
+Deck 4:
+	14 CLUB
+Deck 5:
+	2 DIAMOND
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 6:
+	14 DIAMOND
+	5 HEART
+	5 HEART
+	13 CLUB
+	3 HEART
+	11 HEART
+	12 CLUB
+	12 DIAMOND
+	10 HEART
+	3 SPADE
+	9 CLUB
+Deck 7:
+	7 DIAMOND
+	12 SPADE
+Deck 8:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+	8 HEART
+	1 CLUB
+	3 SPADE
+The cards were successfully added to deck 6.
+The deck 6 was successfully deleted.
+Deck 0:
+	4 SPADE
+Deck 1:
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	8 HEART
+Deck 3:
+	13 HEART
+	11 HEART
+Deck 4:
+	14 CLUB
+Deck 5:
+	2 DIAMOND
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 6:
+	7 DIAMOND
+	12 SPADE
+Deck 7:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+	8 HEART
+	1 CLUB
+	3 SPADE
+The deck 6 and the deck 5 were successfully merged.
+The number of decks is 7.
+Deck 0:
+	4 SPADE
+Deck 1:
+	3 CLUB
+	13 DIAMOND
+	13 SPADE
+	7 CLUB
+	7 SPADE
+	13 HEART
+	10 DIAMOND
+	13 CLUB
+	9 SPADE
+	13 CLUB
+	11 HEART
+	1 CLUB
+	2 SPADE
+	11 SPADE
+Deck 2:
+	8 HEART
+Deck 3:
+	13 HEART
+	11 HEART
+Deck 4:
+	14 CLUB
+Deck 5:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+	8 HEART
+	1 CLUB
+	3 SPADE
+Deck 6:
+	7 DIAMOND
+	2 DIAMOND
+	12 SPADE
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Deck 6:
+	7 DIAMOND
+	2 DIAMOND
+	12 SPADE
+	3 DIAMOND
+	2 HEART
+	1 DIAMOND
+	12 DIAMOND
+	14 HEART
+	1 HEART
+	7 SPADE
+	5 DIAMOND
+	10 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The provided index is out of bounds for the deck list.
+Invalid command. Please try again.
+The deck 4 and the deck 2 were successfully merged.
+The provided index is out of bounds for the deck list.
+Invalid command. Please try again.
+The provided index is out of bounds for deck 5.
+The deck was successfully created with 4 cards.
+The deck 1 and the deck 4 were successfully merged.
+Deck 0:
+	4 SPADE
+Deck 1:
+	13 HEART
+	11 HEART
+Deck 2:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+	8 HEART
+	1 CLUB
+	3 SPADE
+Deck 3:
+	14 CLUB
+	8 HEART
+Deck 4:
+	1 HEART
+	11 CLUB
+	14 HEART
+	9 DIAMOND
+Deck 5:
+	3 CLUB
+	7 DIAMOND
+	13 DIAMOND
+	2 DIAMOND
+	13 SPADE
+	12 SPADE
+	7 CLUB
+	3 DIAMOND
+	7 SPADE
+	2 HEART
+	13 HEART
+	1 DIAMOND
+	10 DIAMOND
+	12 DIAMOND
+	13 CLUB
+	14 HEART
+	9 SPADE
+	1 HEART
+	13 CLUB
+	7 SPADE
+	11 HEART
+	5 DIAMOND
+	1 CLUB
+	10 SPADE
+	2 SPADE
+	13 DIAMOND
+	11 SPADE
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The deck 5 and the deck 0 were successfully merged.
+The provided card is not a valid one.
+The deck was successfully created with 3 cards.
+The provided index is out of bounds for the deck list.
+The number of decks is 6.
+The card was successfully deleted from deck 3.
+The provided index is out of bounds for the deck list.
+The deck 2 was successfully deleted.
+The deck 1 was successfully split by index 3.
+Deck 3:
+	11 CLUB
+	14 HEART
+	9 DIAMOND
+The provided index is out of bounds for the deck list.
+Deck 3:
+	11 CLUB
+	14 HEART
+	9 DIAMOND
+The deck 0 and the deck 5 were successfully merged.
+Deck 0:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+Deck 1:
+	8 HEART
+	1 CLUB
+	3 SPADE
+Deck 2:
+	11 CLUB
+	14 HEART
+	9 DIAMOND
+Deck 3:
+	3 CLUB
+	4 SPADE
+	7 DIAMOND
+	13 DIAMOND
+	2 DIAMOND
+	13 SPADE
+	12 SPADE
+	7 CLUB
+	3 DIAMOND
+	7 SPADE
+	2 HEART
+	13 HEART
+	1 DIAMOND
+	10 DIAMOND
+	12 DIAMOND
+	13 CLUB
+	14 HEART
+	9 SPADE
+	1 HEART
+	13 CLUB
+	7 SPADE
+	11 HEART
+	5 DIAMOND
+	1 CLUB
+	10 SPADE
+	2 SPADE
+	13 DIAMOND
+	11 SPADE
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+Deck 4:
+	13 HEART
+	7 DIAMOND
+	11 HEART
+	7 DIAMOND
+	4 HEART
+The length of deck 4 is 5.
+The number of decks is 5.
+The deck 3 and the deck 1 were successfully merged.
+Deck 0:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+Deck 1:
+	11 CLUB
+	14 HEART
+	9 DIAMOND
+Deck 2:
+	13 HEART
+	7 DIAMOND
+	11 HEART
+	7 DIAMOND
+	4 HEART
+Deck 3:
+	3 CLUB
+	8 HEART
+	4 SPADE
+	1 CLUB
+	7 DIAMOND
+	3 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	13 SPADE
+	12 SPADE
+	7 CLUB
+	3 DIAMOND
+	7 SPADE
+	2 HEART
+	13 HEART
+	1 DIAMOND
+	10 DIAMOND
+	12 DIAMOND
+	13 CLUB
+	14 HEART
+	9 SPADE
+	1 HEART
+	13 CLUB
+	7 SPADE
+	11 HEART
+	5 DIAMOND
+	1 CLUB
+	10 SPADE
+	2 SPADE
+	13 DIAMOND
+	11 SPADE
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The length of deck 3 is 66.
+Deck 0:
+	1 DIAMOND
+	10 SPADE
+	8 DIAMOND
+Deck 1:
+	11 CLUB
+	14 HEART
+	9 DIAMOND
+Deck 2:
+	13 HEART
+	7 DIAMOND
+	11 HEART
+	7 DIAMOND
+	4 HEART
+Deck 3:
+	3 CLUB
+	8 HEART
+	4 SPADE
+	1 CLUB
+	7 DIAMOND
+	3 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	13 SPADE
+	12 SPADE
+	7 CLUB
+	3 DIAMOND
+	7 SPADE
+	2 HEART
+	13 HEART
+	1 DIAMOND
+	10 DIAMOND
+	12 DIAMOND
+	13 CLUB
+	14 HEART
+	9 SPADE
+	1 HEART
+	13 CLUB
+	7 SPADE
+	11 HEART
+	5 DIAMOND
+	1 CLUB
+	10 SPADE
+	2 SPADE
+	13 DIAMOND
+	11 SPADE
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The deck 0 was successfully split by index 1.
+The deck 2 was successfully split by index 0.
+The provided index is out of bounds for the deck list.
+The deck 1 was successfully split by index 0.
+The length of deck 1 is 2.
+The deck 1 and the deck 2 were successfully merged.
+The number of decks is 4.
+Deck 2:
+	3 CLUB
+	8 HEART
+	4 SPADE
+	1 CLUB
+	7 DIAMOND
+	3 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	13 SPADE
+	12 SPADE
+	7 CLUB
+	3 DIAMOND
+	7 SPADE
+	2 HEART
+	13 HEART
+	1 DIAMOND
+	10 DIAMOND
+	12 DIAMOND
+	13 CLUB
+	14 HEART
+	9 SPADE
+	1 HEART
+	13 CLUB
+	7 SPADE
+	11 HEART
+	5 DIAMOND
+	1 CLUB
+	10 SPADE
+	2 SPADE
+	13 DIAMOND
+	11 SPADE
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The provided index is out of bounds for deck 1.
+The provided index is out of bounds for deck 1.
+Deck 3:
+	10 SPADE
+	11 CLUB
+	8 DIAMOND
+	14 HEART
+	9 DIAMOND
+The deck 3 was successfully deleted.
+Deck 2:
+	3 CLUB
+	8 HEART
+	4 SPADE
+	1 CLUB
+	7 DIAMOND
+	3 SPADE
+	13 DIAMOND
+	2 DIAMOND
+	13 SPADE
+	12 SPADE
+	7 CLUB
+	3 DIAMOND
+	7 SPADE
+	2 HEART
+	13 HEART
+	1 DIAMOND
+	10 DIAMOND
+	12 DIAMOND
+	13 CLUB
+	14 HEART
+	9 SPADE
+	1 HEART
+	13 CLUB
+	7 SPADE
+	11 HEART
+	5 DIAMOND
+	1 CLUB
+	10 SPADE
+	2 SPADE
+	13 DIAMOND
+	11 SPADE
+	2 DIAMOND
+	8 CLUB
+	5 CLUB
+	1 DIAMOND
+	7 CLUB
+	2 SPADE
+	12 HEART
+	14 SPADE
+	12 HEART
+	13 HEART
+	1 DIAMOND
+	5 HEART
+	4 CLUB
+	11 CLUB
+	6 CLUB
+	6 SPADE
+	11 HEART
+	9 SPADE
+	13 HEART
+	6 SPADE
+	7 CLUB
+	2 HEART
+	6 SPADE
+	6 CLUB
+	6 CLUB
+	10 HEART
+	11 HEART
+	4 DIAMOND
+	7 SPADE
+	9 DIAMOND
+	14 CLUB
+	10 CLUB
+	6 DIAMOND
+	6 SPADE
+	1 DIAMOND
+The provided index is out of bounds for the deck list.
+The cards were successfully added to deck 1.
+The deck 2 was successfully split by index 3.
+The deck 3 was successfully deleted.
+Deck 0:
+	1 DIAMOND
+Deck 1:
+	13 HEART
+	7 DIAMOND
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+	6 SPADE
+Deck 2:
+	3 CLUB
+	8 HEART
+	4 SPADE
+The cards were successfully added to deck 1.
+The deck 2 and the deck 1 were successfully merged.
+The deck was successfully created with 4 cards.
+The provided index is out of bounds for deck 1.
+The deck 0 was successfully split by index 0.
+Deck 1:
+	3 CLUB
+	13 HEART
+	8 HEART
+	7 DIAMOND
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+	6 SPADE
+	14 CLUB
+The deck was successfully created with 5 cards.
+Deck 1:
+	3 CLUB
+	13 HEART
+	8 HEART
+	7 DIAMOND
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+	6 SPADE
+	14 CLUB
+The card was successfully deleted from deck 3.
+The provided index is out of bounds for the deck list.
+The provided index is out of bounds for the deck list.
+The deck 1 was successfully split by index 10.
+The deck 1 and the deck 3 were successfully merged.
+The deck 3 and the deck 2 were successfully merged.
+Deck 0:
+	1 DIAMOND
+Deck 1:
+	6 SPADE
+	14 CLUB
+Deck 2:
+	3 CLUB
+	10 HEART
+	1 HEART
+	3 SPADE
+	13 HEART
+	11 HEART
+	1 SPADE
+	5 CLUB
+	8 HEART
+	1 SPADE
+	7 DIAMOND
+	1 SPADE
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+The deck 0 was successfully deleted.
+Deck 0:
+	6 SPADE
+	14 CLUB
+Deck 1:
+	3 CLUB
+	10 HEART
+	1 HEART
+	3 SPADE
+	13 HEART
+	11 HEART
+	1 SPADE
+	5 CLUB
+	8 HEART
+	1 SPADE
+	7 DIAMOND
+	1 SPADE
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+The provided index is out of bounds for the deck list.
+Invalid command. Please try again.
+Invalid command. Please try again.
+Invalid command. Please try again.
+The length of deck 1 is 18.
+The provided index is out of bounds for the deck list.
+Deck 0:
+	6 SPADE
+	14 CLUB
+Deck 1:
+	3 CLUB
+	10 HEART
+	1 HEART
+	3 SPADE
+	13 HEART
+	11 HEART
+	1 SPADE
+	5 CLUB
+	8 HEART
+	1 SPADE
+	7 DIAMOND
+	1 SPADE
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+The provided index is out of bounds for the deck list.
+The card was successfully deleted from deck 1.
+The deck was successfully created with 2 cards.
+The number of decks is 3.
+The length of deck 1 is 17.
+Deck 0:
+	6 SPADE
+	14 CLUB
+Deck 1:
+	10 HEART
+	1 HEART
+	3 SPADE
+	13 HEART
+	11 HEART
+	1 SPADE
+	5 CLUB
+	8 HEART
+	1 SPADE
+	7 DIAMOND
+	1 SPADE
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+Deck 2:
+	5 DIAMOND
+	9 DIAMOND
+The number of decks is 3.
+Deck 0:
+	6 SPADE
+	14 CLUB
+Deck 1:
+	10 HEART
+	1 HEART
+	3 SPADE
+	13 HEART
+	11 HEART
+	1 SPADE
+	5 CLUB
+	8 HEART
+	1 SPADE
+	7 DIAMOND
+	1 SPADE
+	4 SPADE
+	11 HEART
+	7 DIAMOND
+	4 HEART
+	3 DIAMOND
+	12 CLUB
+Deck 2:
+	5 DIAMOND
+	9 DIAMOND
+The card was successfully deleted from deck 1.

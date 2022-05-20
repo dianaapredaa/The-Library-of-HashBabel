@@ -1,0 +1,384 @@
+The deck was successfully created with 6 cards.
+The deck was successfully created with 4 cards.
+The deck was successfully created with 3 cards.
+Deck 0:
+	6 CLUB
+	3 SPADE
+	2 SPADE
+	1 HEART
+	4 CLUB
+	7 DIAMOND
+Deck 1:
+	11 HEART
+	2 SPADE
+	1 CLUB
+	13 DIAMOND
+Deck 2:
+	11 DIAMOND
+	3 DIAMOND
+	11 HEART
+The deck 0 was successfully reversed.
+The deck 2 was successfully reversed.
+The cards were successfully added to deck 2.
+Deck 0:
+	7 DIAMOND
+	4 CLUB
+	1 HEART
+	2 SPADE
+	3 SPADE
+	6 CLUB
+Deck 1:
+	11 HEART
+	2 SPADE
+	1 CLUB
+	13 DIAMOND
+Deck 2:
+	11 HEART
+	3 DIAMOND
+	11 DIAMOND
+	4 DIAMOND
+	14 CLUB
+	12 DIAMOND
+	11 DIAMOND
+The card was successfully deleted from deck 0.
+Deck 0:
+	4 CLUB
+	1 HEART
+	2 SPADE
+	3 SPADE
+	6 CLUB
+Deck 1:
+	11 HEART
+	2 SPADE
+	1 CLUB
+	13 DIAMOND
+Deck 2:
+	11 HEART
+	3 DIAMOND
+	11 DIAMOND
+	4 DIAMOND
+	14 CLUB
+	12 DIAMOND
+	11 DIAMOND
+The deck 0 was successfully reversed.
+Deck 1:
+	11 HEART
+	2 SPADE
+	1 CLUB
+	13 DIAMOND
+The deck 1 was successfully reversed.
+The deck was successfully created with 5 cards.
+The length of deck 2 is 7.
+The card was successfully deleted from deck 3.
+The cards were successfully added to deck 3.
+The deck 2 was successfully reversed.
+Deck 0:
+	6 CLUB
+	3 SPADE
+	2 SPADE
+	1 HEART
+	4 CLUB
+Deck 1:
+	13 DIAMOND
+	1 CLUB
+	2 SPADE
+	11 HEART
+Deck 2:
+	11 DIAMOND
+	12 DIAMOND
+	14 CLUB
+	4 DIAMOND
+	11 DIAMOND
+	3 DIAMOND
+	11 HEART
+Deck 3:
+	3 CLUB
+	7 DIAMOND
+	8 SPADE
+	9 SPADE
+	5 DIAMOND
+	6 SPADE
+	3 CLUB
+	4 CLUB
+The deck 1 was successfully reversed.
+The deck 0 was successfully deleted.
+The deck 2 was successfully reversed.
+The cards were successfully added to deck 1.
+The deck 0 was successfully reversed.
+The cards were successfully added to deck 2.
+The cards were successfully added to deck 0.
+Deck 2:
+	4 CLUB
+	3 CLUB
+	6 SPADE
+	5 DIAMOND
+	9 SPADE
+	8 SPADE
+	7 DIAMOND
+	3 CLUB
+	2 SPADE
+	2 DIAMOND
+	13 CLUB
+The cards were successfully added to deck 1.
+The deck 1 was successfully reversed.
+The deck 1 was successfully deleted.
+The deck was successfully created with 4 cards.
+The deck 2 was successfully deleted.
+The deck was successfully created with 5 cards.
+The deck 1 was successfully reversed.
+The number of decks is 3.
+Deck 0:
+	13 DIAMOND
+	1 CLUB
+	2 SPADE
+	11 HEART
+	14 DIAMOND
+	1 HEART
+	12 DIAMOND
+Deck 1:
+	13 CLUB
+	2 DIAMOND
+	2 SPADE
+	3 CLUB
+	7 DIAMOND
+	8 SPADE
+	9 SPADE
+	5 DIAMOND
+	6 SPADE
+	3 CLUB
+	4 CLUB
+Deck 2:
+	11 CLUB
+	10 HEART
+	11 SPADE
+	4 HEART
+	3 DIAMOND
+The deck 1 was successfully deleted.
+The deck was successfully created with 8 cards.
+The card was successfully deleted from deck 1.
+The deck 1 was successfully deleted.
+The deck was successfully created with 7 cards.
+The deck 1 was successfully deleted.
+The deck was successfully created with 5 cards.
+Deck 0:
+	13 DIAMOND
+	1 CLUB
+	2 SPADE
+	11 HEART
+	14 DIAMOND
+	1 HEART
+	12 DIAMOND
+Deck 1:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	4 SPADE
+	1 DIAMOND
+Deck 2:
+	14 HEART
+	11 CLUB
+	12 CLUB
+	7 DIAMOND
+	1 CLUB
+The deck 2 was successfully reversed.
+The length of deck 0 is 7.
+The card was successfully deleted from deck 2.
+The card was successfully deleted from deck 1.
+Deck 0:
+	13 DIAMOND
+	1 CLUB
+	2 SPADE
+	11 HEART
+	14 DIAMOND
+	1 HEART
+	12 DIAMOND
+Deck 1:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+Deck 2:
+	7 DIAMOND
+	12 CLUB
+	11 CLUB
+	14 HEART
+The number of decks is 3.
+The deck was successfully created with 3 cards.
+Deck 0:
+	13 DIAMOND
+	1 CLUB
+	2 SPADE
+	11 HEART
+	14 DIAMOND
+	1 HEART
+	12 DIAMOND
+Deck 1:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+Deck 2:
+	7 DIAMOND
+	12 CLUB
+	11 CLUB
+	14 HEART
+Deck 3:
+	2 HEART
+	9 SPADE
+	4 HEART
+The deck 0 was successfully reversed.
+Deck 0:
+	12 DIAMOND
+	1 HEART
+	14 DIAMOND
+	11 HEART
+	2 SPADE
+	1 CLUB
+	13 DIAMOND
+Deck 1:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+Deck 2:
+	7 DIAMOND
+	12 CLUB
+	11 CLUB
+	14 HEART
+Deck 3:
+	2 HEART
+	9 SPADE
+	4 HEART
+The length of deck 0 is 7.
+The number of decks is 4.
+The deck 3 was successfully deleted.
+Deck 1:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+The deck 0 was successfully reversed.
+The length of deck 1 is 6.
+Deck 2:
+	7 DIAMOND
+	12 CLUB
+	11 CLUB
+	14 HEART
+The deck 0 was successfully reversed.
+The cards were successfully added to deck 0.
+Deck 0:
+	12 DIAMOND
+	1 HEART
+	14 DIAMOND
+	11 HEART
+	2 SPADE
+	1 CLUB
+	13 DIAMOND
+	2 CLUB
+Deck 1:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+Deck 2:
+	7 DIAMOND
+	12 CLUB
+	11 CLUB
+	14 HEART
+The deck 0 was successfully deleted.
+The deck was successfully created with 3 cards.
+Deck 0:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+The length of deck 0 is 6.
+The card was successfully deleted from deck 1.
+Deck 0:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+Deck 1:
+	7 DIAMOND
+	12 CLUB
+	14 HEART
+Deck 2:
+	5 SPADE
+	5 CLUB
+	1 DIAMOND
+The deck 0 was successfully reversed.
+The card was successfully deleted from deck 1.
+Deck 0:
+	1 DIAMOND
+	5 CLUB
+	12 HEART
+	5 HEART
+	5 SPADE
+	2 CLUB
+Deck 1:
+	12 CLUB
+	14 HEART
+Deck 2:
+	5 SPADE
+	5 CLUB
+	1 DIAMOND
+The length of deck 1 is 2.
+Deck 0:
+	1 DIAMOND
+	5 CLUB
+	12 HEART
+	5 HEART
+	5 SPADE
+	2 CLUB
+Deck 1:
+	12 CLUB
+	14 HEART
+Deck 2:
+	5 SPADE
+	5 CLUB
+	1 DIAMOND
+The length of deck 2 is 3.
+The deck 1 was successfully reversed.
+Deck 1:
+	14 HEART
+	12 CLUB
+The deck 0 was successfully reversed.
+Deck 0:
+	2 CLUB
+	5 SPADE
+	5 HEART
+	12 HEART
+	5 CLUB
+	1 DIAMOND
+Deck 1:
+	14 HEART
+	12 CLUB
+Deck 2:
+	5 SPADE
+	5 CLUB
+	1 DIAMOND
+The length of deck 0 is 6.
+The deck was successfully created with 2 cards.
+The card was successfully deleted from deck 1.
+Deck 3:
+	10 HEART
+	5 SPADE
+The deck 1 was successfully reversed.
+The deck 3 was successfully reversed.
